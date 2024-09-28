@@ -7,7 +7,7 @@
 
 import Foundation
 
-class NetworkCallRequest: ObservableObject {
+class NetworkCallRequest{
     
     let networkService: NetworkServiceProtocol
     
